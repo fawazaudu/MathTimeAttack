@@ -1,0 +1,1 @@
+The Timed Math Challenge is a simple command-line game that generates random math problems for the user to solve. The game measures how quickly the user can solve a set of math problems and keeps track of the number of incorrect attempts. This project is a fun way to practice basic arithmetic while also improving speed and accuracy.
